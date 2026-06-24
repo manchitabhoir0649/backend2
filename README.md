@@ -105,7 +105,7 @@ POST /api/auth/login
 
 # 🎓 Student APIs (Protected Routes)
 
-👉 Add this header in all requests:
+ Add this header in all requests:
 
 ```
 Authorization: Bearer YOUR_TOKEN
