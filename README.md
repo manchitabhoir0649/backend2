@@ -1,15 +1,9 @@
-Here is your **COMPLETE README.md in one single block** (ready to copy-paste directly into GitHub):
-
----
-
-````md
-# 🚀 Student Profile Management System (Backend API)
+Student Profile Management System (Backend API)
 
 A Node.js + Express + MongoDB backend project with JWT authentication and full CRUD operations for students.
 
 ---
-
-# 📌 Features
+Features
 
 - User Registration & Login
 - JWT Authentication
@@ -19,8 +13,7 @@ A Node.js + Express + MongoDB backend project with JWT authentication and full C
 - REST API Structure
 
 ---
-
-# 🛠️ Tech Stack
+ Tech Stack
 
 - Node.js
 - Express.js
@@ -30,8 +23,7 @@ A Node.js + Express + MongoDB backend project with JWT authentication and full C
 - dotenv
 
 ---
-
-# 📁 Project Setup
+Project Setup
 
 ## 1. Install dependencies
 
@@ -74,8 +66,7 @@ http://localhost:5000
 ```
 
 ---
-
-# 🔐 Authentication APIs
+Authentication APIs
 
 ## Register User
 
@@ -168,9 +159,3 @@ DELETE /api/students/:id
 Register → Login → Get Token → Use Token → Access Student APIs
 ```
 
-
-
-
-
-Just tell 👍
-```
